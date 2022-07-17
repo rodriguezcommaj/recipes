@@ -1,2 +1,3 @@
-# recipes
+# Recipes
+
 Some yummy stuff.
